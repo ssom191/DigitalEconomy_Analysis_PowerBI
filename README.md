@@ -97,7 +97,7 @@ Data preparation was performed entirely within Power Query in Power BI.
 
 ## Repository Structure
 
-* `Digital_Economy_Analysis.pbix` — Power BI dashboard
+* `DigitalEconomyComp_ssom191.pbix` — Power BI dashboard
 * `/Datasets` — World Bank datasets and metadata
 * `Dashboard PDF` - Preview of the dashboard in case of not having Power BI installed
 
